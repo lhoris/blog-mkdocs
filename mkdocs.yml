@@ -1,0 +1,5 @@
+site_name: 21st Alchemist's Tech Blog
+theme:
+  name: material
+nav:
+  - Home: index.md
